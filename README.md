@@ -1,3 +1,9 @@
+# Weatherly 
+ 
+  Developed a visually appealing weather forecast application by fetching the weather information of a particular
+  region within seconds built on ReactJS by fetching the weather updates from Open Weather Map API.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
- # Weatherly 
+
+
